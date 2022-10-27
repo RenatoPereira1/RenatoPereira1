@@ -1,6 +1,7 @@
 ## Hello world. 👋 Eu sou o Renato 🐱‍👤
 
 - 🔭 Trabalho como analista de suporte
+- 🌱 Formado em Administração
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 
 <img height="180em" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gif-gato-1519137077.gif?crop=1.00xw:0.502xh;0,0.316xh&resize=1200:*"/>
